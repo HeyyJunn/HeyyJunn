@@ -13,7 +13,7 @@
 <br>
 
 <!-- 기술 스택 -->
-<p align="left"><strong>🪼 Technologies I’m Exploring</strong></p>
+<p align="left"><strong>🪼 Technologies I’m Exploring (성실히 배우고 있습니다 ^^.)</strong></p>
 <div align="left">
   <!-- 프론트엔드 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -32,10 +32,10 @@
     <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3776AB" height="36"/></a>
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="36"/></a>
-  <a href="https://www.cprogramming.com/">
-    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" height="36"/></a>
   <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="36"/></a>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" height="36"/></a>
 </div>
 
 <br>
