@@ -36,16 +36,9 @@
     <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3776AB" height="36"/></a>
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="36"/></a>
-    
-<br>
-
-<a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="36"/></a>
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height="36"/></a>
-
-<br>
 </div>
+
+<br>
 
 <p align="left"><strong>Tools🦕</strong></p>
 <div align="left">
