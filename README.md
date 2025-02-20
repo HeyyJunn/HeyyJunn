@@ -40,7 +40,7 @@
 
 <br>
 
-<p align="left"><strong>Tools🦕</strong></p>
+<p align="left"><strong>🦕 Tools</strong></p>
 <div align="left">
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="36"/></a>
