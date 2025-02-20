@@ -13,7 +13,8 @@
 <br>
 
 <!-- 기술 스택 -->
-<p align="left"><strong>🪼 Technologies I’m Exploring (성실히 배우고 있습니다 ^^.)</strong></p>
+<p align="left"><strong>🪼 Technologies I’m Exploring</strong></p>
+열심히 배우고 있습니다 ^^.
 <div align="left">
   <!-- 프론트엔드 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
