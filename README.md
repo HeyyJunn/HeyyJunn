@@ -28,14 +28,14 @@
   <br>
 
   <!-- 백엔드 및 프로그래밍 언어 -->
-  <a href="https://www.cprogramming.com/">
-    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" height="36"/></a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="36"/></a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3776AB" height="36"/></a>
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="36"/></a>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" height="36"/></a>
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="36"/></a>
 </div>
 
 <br>
