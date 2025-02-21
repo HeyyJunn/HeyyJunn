@@ -14,7 +14,7 @@
 
 <!-- 기술 스택 -->
 <p align="left"><strong>🪼 Technologies I’m Exploring</strong></p>
-열심히 배우고 있습니다 ^^.
+<p align="left">열심히 배워보고 있는 2학년 입니다 ^^.</p>
 <div align="left">
   <!-- 프론트엔드 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
