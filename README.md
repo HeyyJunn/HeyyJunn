@@ -6,7 +6,7 @@
 </p>
 
 <!-- 기본 정보 -->
-👨🏻‍💻 <strong>*Data Science Major, School of AI · Convergence Software - [Myongji University](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
+👨🏻‍💻 <strong>*Data Science Major, School of AI · Convergence Software - [Myongji University (SEOUL)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
 <br>
 <strong>E-Mail:</strong> xxpatrinii16@gmail.com
 
