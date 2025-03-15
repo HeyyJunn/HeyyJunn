@@ -82,6 +82,7 @@
 |--------|---------|------------|
 | 2024.02 ~ 2025.01 | Student | 💻 Computer Engineering Major [Myongji University](https://www.mju.ac.kr/us/3764/subview.do) |
 | 2025.02 ~ Present | Student | 🧠 Data Science Major [Myongji University](https://www.mju.ac.kr/us/3687/subview.do) |
+| 2025.03 ~ Present | Backend | 🦁 LikeLion 13th [LikeLion Univ](https://likelion.university/) |
 
 <hr>
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
