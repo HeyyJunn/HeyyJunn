@@ -1,4 +1,4 @@
-<!-- 🌊 Azure River - GitHub README  -->
+<!-- 🌊 Azure River - GitHub README -->
 <hr>
 <!-- 헤더 (배너 이미지 포함) -->
 <p align="left">
