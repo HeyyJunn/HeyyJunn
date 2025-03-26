@@ -5,9 +5,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=🌊%20It'll%20all%20be%20ok.%20Hi!%20🐋%20I'm%20Min-Joon.&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyyJunn&hide=html,css,c,jupyter%20notebook&layout=compact&theme=dark) -->
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=HeyyJunn&hide=html,css,c,jupyter%20notebook&layout=compact&theme=dark&cache_seconds=30
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyyJunn&hide=html,css,c,jupyter%20notebook&layout=compact&theme=dark&cache_seconds=30
+)
 
 <hr>
 
