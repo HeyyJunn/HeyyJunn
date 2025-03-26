@@ -20,8 +20,6 @@
 <strong>*Data Science Major, School of AI·Convergence Software - Sophomore[2] [Myongji University (SEOUL)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyyJunn&hide=html,css,c,jupyter%20notebook&layout=compact&theme=dark)
-<hr>
 
 <!-- 기술 스택 -->
 <p align="left"><strong>🐋 Tech I’m Exploring</strong></p>
