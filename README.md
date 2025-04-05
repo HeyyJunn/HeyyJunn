@@ -59,6 +59,22 @@
     <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="33"/></a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height="33"/></a>
+
+
+  <p align="left"><strong>🔩 Tools</strong></p>
+<div align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="33"/></a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height="33"/></a>
+  <a href="https://www.rstudio.com/">
+    <img src="https://img.shields.io/badge/RStudio-000000?style=for-the-badge&logo=rstudio&logoColor=75AADB" height="33"/></a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="33"/></a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="33"/></a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="33"/></a>
 </div>
 
 <br>
