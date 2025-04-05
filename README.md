@@ -60,23 +60,6 @@
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height="33"/></a>
 
-
-<p align="left"><strong>🔩 Tools</strong></p>
-<div align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git" height="33"/></a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github" height="33"/></a>
-  <a href="https://www.rstudio.com/">
-    <img src="https://img.shields.io/badge/RStudio-000000?style=for-the-badge&logo=rstudio" height="33"/></a>
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea" height="33"/></a>
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm" height="33"/></a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode" height="33"/></a>
-</div>
-
 <br>
 
 <!-- 연락처 -->
