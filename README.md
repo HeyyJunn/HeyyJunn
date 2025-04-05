@@ -30,6 +30,8 @@
 <!-- 기술 스택 -->
 <p align="left"><strong>🐋 Tech I’m Exploring</strong></p>
 <div align="left">
+  <a href="https://www.r-project.org/">
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3" height="33"/></a>
   <!-- 프론트엔드 -->
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="33"/></a>
