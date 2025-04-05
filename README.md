@@ -59,6 +59,7 @@
     <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="33"/></a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height="33"/></a>
+</div>
 
 <br>
 
