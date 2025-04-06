@@ -2,6 +2,10 @@
 <hr>
 <!-- 헤더 (배너 이미지 포함) -->
 
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=🌊%20It'll%20all%20be%20ok.%20Hi!%20🐋%20I'm%20Min-Joon.&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling" />
+</p>
+
 <!-- 기본 정보 -->
 <div align="left">
   <a href="https://receptive-justice-221.notion.site/Min-Joon-Kim-1ad70023bab380df8964f14ac147463e">
@@ -15,10 +19,6 @@
 </div>
 
 <strong>*Data Science Major, School of AI·Convergence Software - Sophomore[2] [Myongji University (SEOUL)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=🌊%20It'll%20all%20be%20ok.%20Hi!%20🐋%20I'm%20Min-Joon.&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling" />
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyyJunn&hide=html,css,c,jupyter%20notebook&layout=compact&theme=dark&cache_seconds=30
 )
