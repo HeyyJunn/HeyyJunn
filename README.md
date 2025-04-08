@@ -25,38 +25,33 @@
 
 <hr>
 
+
+
+
 <!-- 기술 스택 -->
 <p align="left"><strong>◻️ Tech I’m Exploring</strong></p>
 <div align="left">
   <a href="https://www.r-project.org/">
-    <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" height="33"/></a>
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3" height="33"/></a>
+  <!-- 프론트엔드 -->
   <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="33"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white" height="33"/></a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="33"/></a>
+
+<a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="33"/></a>
+    
+  <!-- 백엔드 및 프로그래밍 언어 -->
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3776AB" height="33"/></a>
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="33"/></a>
+<!--   <a href="https://www.cprogramming.com/">
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" height="36"/></a> -->
+
 </div>
 
-<br>
-
-<p align="left"><strong>◻️ Tools</strong></p>
-<div align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" height="33"/></a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height="33"/></a>
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="33"/></a>
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="33"/></a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="33"/></a>
-</div>
 <br>
 
 <p align="left"><strong>◻️ Tools</strong></p>
@@ -69,26 +64,20 @@
 
 <br>
 
-<br>
-
 <!-- 연락처 -->
 <p align="left"><strong>◻️ Contact</strong></p>
 <div align="left">
   <!-- 이메일 -->
   <a href="mailto:xxanecdote@naver.com">
-    <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" height="33"/></a>
 
   <!-- Velog 블로그 -->
   <a href="https://velog.io/@ilwha/posts">
-    <img src="https://img.shields.io/badge/velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=20C997" height="33"/></a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/loca1s.on1y/">
-    <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="33"/></a>
-
-  <!-- 개인 블로그 (BookStack 아이콘 활용) -->
+  <!-- 개인 블로그 -->
   <a href="https://velog.io/@ilwha/posts">
-    <img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=bookstack&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=bookstack&logoColor=white" height="33"/></a>
 </div>
 
 <hr>
