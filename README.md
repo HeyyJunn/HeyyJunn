@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=🌊%20It'll%20all%20be%20ok.%20Hi!%20🐋%20I'm%20Min-Joon.&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
 
-<!-- 기본 정보 -->
+<!-- 기본 정보  -->
 <div align="left">
   <a href="https://receptive-justice-221.notion.site/Min-Joon-Kim-1ad70023bab380df8964f14ac147463e">
     <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white" height="25"/></a>
