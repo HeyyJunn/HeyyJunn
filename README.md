@@ -8,8 +8,8 @@
 
 <!-- 기본 정보  -->
 <div align="left">
-  <a href="https://receptive-justice-221.notion.site/Min-Joon-Kim-1ad70023bab380df8964f14ac147463e">
-    <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white" height="25"/></a>
+<!--   <a href="https://receptive-justice-221.notion.site/Min-Joon-Kim-1ad70023bab380df8964f14ac147463e">
+    <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white" height="25"/></a> -->
 
   <a href="https://velog.io/@ilwha/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="25"/></a>
