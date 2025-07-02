@@ -36,9 +36,10 @@
 
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="33"/></a>
+    
  <a href="https://spring.io/projects/spring-boot">
-  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="33"/>
-</a>
+  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="33"/></a>
+  
 <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="33"/></a>
     
