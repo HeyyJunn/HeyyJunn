@@ -70,15 +70,15 @@
 <div align="left">
   <!-- 이메일 -->
   <a href="mailto:xxanecdote@naver.com">
-    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" height="33"/></a>
+    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="33"/></a>
 
   <!-- Velog 블로그 -->
-  <a href="https://velog.io/@ilwha/posts">
-    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=20C997" height="33"/></a>
+  <a href="https://velog.io/@ilwha/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="25"/></a>
 
+   <a href="https://www.instagram.com/loca1s.on1y/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
   <!-- 개인 블로그 -->
-  <a href="https://velog.io/@ilwha/posts">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=bookstack&logoColor=white" height="33"/></a>
 </div>
 
 <hr>
