@@ -1,11 +1,9 @@
 <!-- 🌊 Azure River - GitHub README -->
-<hr>
 <!-- 헤더 (배너이미지 포함) -->
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=🌊%20Min-jun,%20Kim&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
-
 
 <strong>*Data Science Major, School of AI·Convergence Software - Sophomore[2] [Myongji University (SEOUL)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
 
@@ -13,9 +11,6 @@
 )
 
 <hr>
-
-
-
 
 <!-- 기술 스택 -->
 <p align="left"><strong>◻️ Tech I’m Exploring</strong></p>
