@@ -6,17 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=🌊%20Min-jun,%20Kim&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
 
-<!-- 기본 정보  -->
-<div align="left">
-<!--   <a href="https://receptive-justice-221.notion.site/Min-Joon-Kim-1ad70023bab380df8964f14ac147463e">
-    <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=notion&logoColor=white" height="25"/></a> -->
-
-  <a href="https://velog.io/@ilwha/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="25"/></a>
-
-   <a href="https://www.instagram.com/loca1s.on1y/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
-</div>
 
 <strong>*Data Science Major, School of AI·Convergence Software - Sophomore[2] [Myongji University (SEOUL)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
 
