@@ -5,8 +5,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=🌊%20Min-jun,%20Kim&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
 
-<strong>*🎓 Dept. of Data Science, 
-School of AI·Convergence Software - Sophomore[2] 
+<strong>*🎓 Dept. of Data Science,  
+School of AI·Convergence Software - Sophomore[2]  
 [@ Myongji University (SEOUL)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyyJunn&hide=html,css,c,jupyter%20notebook&layout=compact&theme=dark&cache_seconds=30
