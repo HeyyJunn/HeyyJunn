@@ -7,7 +7,7 @@
 
 <strong>*🎓 Dept. of Data Science,  
 School of AI·Convergence Software  
-[@ Myongji University (SEOUL)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
+[@ Myongji University (Seoul)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyyJunn&hide=html,css,c,jupyter%20notebook&layout=compact&theme=dark&cache_seconds=30
 ) -->
