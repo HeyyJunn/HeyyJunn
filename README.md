@@ -35,20 +35,21 @@ School of AI·Convergence Software
   <a href="https://www.r-project.org/">
   <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3" height="33"/></a>
 
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="33"/></a>
-    
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="33"/></a>
+
  <a href="https://spring.io/projects/spring-boot">
   <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="33"/></a>
   
 <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="33"/></a>
     
-  <!-- 백엔드 및 프로그래밍 언어 -->
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3776AB" height="33"/></a>
-  <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="33"/></a>
+    
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="33"/></a>
+    
 <!--   <a href="https://www.cprogramming.com/">
     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" height="36"/></a> -->
 
