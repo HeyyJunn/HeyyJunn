@@ -9,6 +9,21 @@
 School of AI·Convergence Software  
 [@ Myongji University (Seoul)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
 
+<!-- 연락처 -->
+<div align="left">
+  <!-- 이메일 -->
+  <a href="mailto:xxanecdote@naver.com">
+    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="33"/></a>
+
+  <!-- Velog 블로그 -->
+  <a href="https://velog.io/@ilwha/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="25"/></a>
+
+   <a href="https://www.instagram.com/loca1s.on1y/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
+  <!-- 개인 블로그 -->
+</div>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyyJunn&hide=html,css,c,jupyter%20notebook&layout=compact&theme=dark&cache_seconds=30
 ) -->
 
@@ -51,22 +66,6 @@ School of AI·Convergence Software
 
 <br>
 
-<!-- 연락처 -->
-<p align="left"><strong>· Contact</strong></p>
-<div align="left">
-  <!-- 이메일 -->
-  <a href="mailto:xxanecdote@naver.com">
-    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="33"/></a>
-
-  <!-- Velog 블로그 -->
-  <a href="https://velog.io/@ilwha/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="25"/></a>
-
-   <a href="https://www.instagram.com/loca1s.on1y/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
-  <!-- 개인 블로그 -->
-</div>
-
 <hr>
 
 <!-- 학력 정보 -->
@@ -74,8 +73,8 @@ School of AI·Convergence Software
 
 | Period | Status  | Institution |
 |--------|---------|------------|
-| 2025.02 ~ Present | Student | 🧠 Data Science Major [Myongji University](https://www.mju.ac.kr/us/3687/subview.do) |
-| 2025.03 ~ Present | Backend | 🦁 LIKELION Univ 13th [LIKELION Univ](https://likelion.university/) |
+| 2025.02 ~ Present | Student | 🧠 Data Science Major [@ Myongji University](https://www.mju.ac.kr/us/3687/subview.do) |
+| 2025.03 ~ Present | Backend | 🦁 LIKELION Univ 13th [@ LIKELION Univ](https://likelion.university/) |
 
 <hr>
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
