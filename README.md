@@ -16,10 +16,10 @@ School of AI·Convergence Software
     <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="33"/></a>
 
   <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A4%80-%EA%B9%80-8b2433352/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="25"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="33"/></a>
   <!-- Velog 블로그 -->
   <a href="https://velog.io/@ilwha/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="25"/></a>
+    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="33"/></a>
 
 </div>
 
