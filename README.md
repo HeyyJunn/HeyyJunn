@@ -13,15 +13,15 @@ School of AI·Convergence Software
 <div align="left">
   <!-- 이메일 -->
   <a href="mailto:xxanecdote@naver.com">
-    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="23"/></a>
+    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
 
   <!-- LinkedIn (Instagram 뱃지 디자인 사용) -->
   <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A4%80-%EA%B9%80-8b2433352/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
 
   <!-- Velog 블로그 -->
   <a href="https://velog.io/@ilwha/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="25"/></a>
 
 </div>
 
@@ -34,26 +34,26 @@ School of AI·Convergence Software
 <p align="left"><strong>· Tech I’m Exploring</strong></p>
 <div align="left">
   <a href="https://www.r-project.org/">
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3" height="33"/></a>
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3" height="25"/></a>
 
   <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/></a>
 
  <a href="https://spring.io/projects/spring-boot">
-  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="33"/></a>
+  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="25"/></a>
   
 <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="33"/></a>
+    <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" height="25"/></a>
     
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3776AB" height="33"/></a>
+    <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3776AB" height="25"/></a>
     
   <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="33"/></a>
+    <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/></a>
 
 
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" height="25"/></a>
     
 <!--   <a href="https://www.cprogramming.com/">
     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" height="36"/></a> -->
@@ -65,9 +65,9 @@ School of AI·Convergence Software
 <p align="left"><strong>· Tools</strong></p>
 <div align="left">
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="33"/></a>
+    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="25"/></a>
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height="25"/></a>
 </div>
 
 <br>
