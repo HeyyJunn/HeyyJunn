@@ -15,10 +15,8 @@ School of AI·Convergence Software
   <a href="mailto:xxanecdote@naver.com">
     <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="33"/></a>
 
-   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
-    
   <!-- Velog 블로그 -->
   <a href="https://velog.io/@ilwha/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="25"/></a>
