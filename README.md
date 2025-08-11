@@ -15,7 +15,7 @@ School of AI·Convergence Software
 <hr>
 
 <!-- 기술 스택 -->
-<p align="left"><strong>◻️ Tech I’m Exploring</strong></p>
+<p align="left"><strong>· Tech I’m Exploring</strong></p>
 <div align="left">
   <a href="https://www.r-project.org/">
   <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3" height="33"/></a>
@@ -41,7 +41,7 @@ School of AI·Convergence Software
 
 <br>
 
-<p align="left"><strong>◻️ Tools</strong></p>
+<p align="left"><strong>· Tools</strong></p>
 <div align="left">
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="33"/></a>
@@ -52,7 +52,7 @@ School of AI·Convergence Software
 <br>
 
 <!-- 연락처 -->
-<p align="left"><strong>◻️ Contact</strong></p>
+<p align="left"><strong>· Contact</strong></p>
 <div align="left">
   <!-- 이메일 -->
   <a href="mailto:xxanecdote@naver.com">
@@ -70,7 +70,7 @@ School of AI·Convergence Software
 <hr>
 
 <!-- 학력 정보 -->
-<strong>◻️ University Academic Record</strong>
+<strong>· University Academic Record</strong>
 
 | Period | Status  | Institution |
 |--------|---------|------------|
