@@ -13,7 +13,7 @@ School of AI·Convergence Software
 <div align="left">
   <!-- 이메일 -->
   <a href="mailto:xxanecdote@naver.com">
-    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="33"/></a>
+    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
 
   <!-- LinkedIn (Instagram 뱃지 디자인 사용) -->
   <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A4%80-%EA%B9%80-8b2433352/" target="_blank">
