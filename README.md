@@ -51,7 +51,7 @@ School of AI·Convergence Software
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="33"/></a>
 
-      <!-- MySQL -->
+
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" height="33"/></a>
     
