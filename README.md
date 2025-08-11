@@ -15,13 +15,14 @@ School of AI·Convergence Software
   <a href="mailto:xxanecdote@naver.com">
     <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="33"/></a>
 
+   <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
+    
   <!-- Velog 블로그 -->
   <a href="https://velog.io/@ilwha/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="25"/></a>
 
-   <a href="https://www.instagram.com/loca1s.on1y/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
-  <!-- 개인 블로그 -->
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyyJunn&hide=html,css,c,jupyter%20notebook&layout=compact&theme=dark&cache_seconds=30
