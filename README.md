@@ -15,8 +15,10 @@ School of AI·Convergence Software
   <a href="mailto:xxanecdote@naver.com">
     <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="33"/></a>
 
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/%EB%AF%BC%EC%A4%80-%EA%B9%80-8b2433352/)
-  
+  <!-- LinkedIn (Instagram 뱃지 디자인 사용) -->
+  <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A4%80-%EA%B9%80-8b2433352/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="33"/></a>
+
   <!-- Velog 블로그 -->
   <a href="https://velog.io/@ilwha/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="33"/></a>
