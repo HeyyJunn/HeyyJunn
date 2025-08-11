@@ -15,9 +15,9 @@ School of AI·Convergence Software
   <a href="mailto:xxanecdote@naver.com">
     <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="33"/></a>
 
-  <!-- LinkedIn 버튼 (검정 배경 + 공식 파란 로고) – 이건 테스트해봤을 때 확실히 보였습니다 -->
   <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A4%80-%EA%B9%80-8b2433352/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="33"/></a>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="33"/></a>
+  
   <!-- Velog 블로그 -->
   <a href="https://velog.io/@ilwha/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="33"/></a>
