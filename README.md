@@ -6,7 +6,7 @@
 </p>
 
 <strong>*🎓 Dept. of Data Science,  
-School of AI·Convergence Software  
+Faculty of AI·Convergence Software  
 [@ Myongji University (Seoul)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
 
 <!-- 연락처 -->
