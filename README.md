@@ -7,8 +7,8 @@
 
 <strong>*🎓 Dept. of Data Science,  
 Faculty of AI·Convergence Software  
-[@ Myongji University (Seoul)](https://www.mju.ac.kr/us/3687/subview.do)
-( 인공지능·융합소프트웨어학부 데이터사이언스전공 )*</strong>
+( 인공지능·융합소프트웨어학부 데이터사이언스전공 )
+[@ Myongji University (Seoul)](https://www.mju.ac.kr/us/3687/subview.do)*</strong>
 
 <!-- 연락처 -->
 <div align="left">
