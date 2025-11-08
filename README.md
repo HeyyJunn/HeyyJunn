@@ -1,8 +1,8 @@
-<!-- 🌊 Azure River - GitHub README -->
+<!-- Azure River - GitHub README -->
 <!-- 헤더 (배너이미지 포함) -->
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=🌊%20Min-jun,%20Kim&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=👨🏻‍💻%20Min-jun,%20Kim&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
 
 <strong><em>🎓 Dept. of Data Science</em></strong><br>
