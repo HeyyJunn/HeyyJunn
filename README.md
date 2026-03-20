@@ -26,7 +26,7 @@
 
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunmin8410)](https://solved.ac/ㅌxxanecdote/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxanecdote)](https://solved.ac/xxanecdote/)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyyJunn&hide=html,css,c,jupyter%20notebook&layout=compact&theme=dark&cache_seconds=30
 ) -->
