@@ -10,21 +10,6 @@
 <strong><em>(인공지능·융합소프트웨어학부 데이터사이언스전공)</em></strong><br>
 <strong><em><a href="https://www.mju.ac.kr/us/3687/subview.do">@ Myongji University (Seoul)</a></em></strong>
 
-<!-- 연락처 -->
-<div align="left">
-  <!-- 이메일 -->
-  <a href="mailto:xxanecdote@naver.com">
-    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
-
-  <!-- LinkedIn (Instagram 뱃지 디자인 사용) -->
-  <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A4%80-%EA%B9%80-8b2433352/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
-
-  <!-- Velog 블로그 -->
-  <a href="https://velog.io/@ilwha/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" height="25"/></a>
-
-</div>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxanecdote)](https://solved.ac/xxanecdote/)
