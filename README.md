@@ -66,7 +66,8 @@
 | Period | Status  | Institution |
 |--------|---------|------------|
 | 2025.02 ~ Present | Student | 🧠 Data Science Major [@ Myongji University](https://www.mju.ac.kr/us/3687/subview.do) |
-| 2025.03 ~ Present | Backend | 🦁 LIKELION Univ 13th (멋쟁이사자처럼 13기) [@ LIKELION Univ](https://likelion.university/) |
+| 2025.03 ~ 2025.12 | Backend | 🦁 LIKELION Univ 13th (멋쟁이사자처럼 13기) [@ LIKELION Univ](https://likelion.university/) |
+| 2026.05 ~ Present | Undergraduate Research Assistant  | 🤖 Machine Intelligence and Reliable AI Lab |
 
 <hr>
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
