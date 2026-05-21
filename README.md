@@ -48,7 +48,7 @@
 
 </div>
 
-<br>
+<!-- <br>
 
 <p align="left"><strong>· Tools</strong></p>
 <div align="left">
@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="25"/></a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height="25"/></a>
-</div>
+</div> -->
 
 <hr>
 
