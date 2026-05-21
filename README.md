@@ -58,8 +58,6 @@
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" height="25"/></a>
 </div> -->
 
-<hr>
-
 <!-- 학력 정보 -->
 <strong>· University Academic Record</strong>
 
