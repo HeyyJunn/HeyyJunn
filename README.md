@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" height="25"/></a>
 
 </div>
+<br>
 
 <!-- <br>
 
